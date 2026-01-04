@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hola, soy Anyul Martinez
 
-<!--
-**anyulM/anyulM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Ingeniería de Sistemas**
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de software, la tecnología y el aprendizaje continuo. Me gusta crear proyectos prácticos que me permitan aplicar los conocimientos adquiridos en la universidad y seguir fortaleciendo mis habilidades técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+* 📚 Estudiante universitario de Ingeniería de Sistemas
+* 💻 Interesado en el desarrollo de aplicaciones y soluciones tecnológicas
+* 🌱 Actualmente aprendiendo y reforzando bases en programación, estructuras de datos y desarrollo web
+* 🤝 Abierto a colaborar en proyectos académicos y de aprendizaje
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+* Lenguajes: `Java`, `Python`, `JavaScript`
+* Web: `HTML`, `CSS`, `JavaScript`
+* Bases de datos: `MySQL` (básico)
+* Herramientas: `Git`, `GitHub`, `VS Code`
+
+---
+
+## 📂 Proyectos
+
+En este perfil encontrarás:
+
+* 📌 Proyectos académicos
+* 🧪 Prácticas de programación
+* 🌐 Pequeñas aplicaciones web
+* 📄 Documentación y ejercicios de aprendizaje
+
+---
+
+## 📈 Objetivo
+
+Seguir creciendo como profesional en el área de sistemas, adquirir experiencia práctica y construir un portafolio sólido que refleje mi evolución como desarrollador.
+
+---
+
+## 📫 Contacto
+
+* GitHub: **@AnyulMartinez**
+
+¡Gracias por visitar mi perfil! ⭐
+
+## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anyulM&theme=dracula)](https://git.io/streak-stats)
+
