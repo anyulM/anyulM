@@ -4,7 +4,7 @@
 
 Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de software, la tecnología y el aprendizaje continuo. Me gusta crear proyectos prácticos que me permitan aplicar los conocimientos adquiridos en la universidad y seguir fortaleciendo mis habilidades técnicas.
 
----
+
 
 ## 🚀 Sobre mí
 
@@ -13,7 +13,6 @@ Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de softw
 * 🌱 Actualmente aprendiendo y reforzando bases en programación, estructuras de datos y desarrollo web
 * 🤝 Abierto a colaborar en proyectos académicos y de aprendizaje
 
----
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -22,7 +21,7 @@ Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de softw
 * Bases de datos: `MySQL` (básico)
 * Herramientas: `Git`, `GitHub`, `VS Code`
 
----
+
 
 ## 📂 Proyectos
 
@@ -33,13 +32,12 @@ En este perfil encontrarás:
 * 🌐 Pequeñas aplicaciones web
 * 📄 Documentación y ejercicios de aprendizaje
 
----
 
 ## 📈 Objetivo
 
 Seguir creciendo como profesional en el área de sistemas, adquirir experiencia práctica y construir un portafolio sólido que refleje mi evolución como desarrollador.
 
----
+
 
 ## 📫 Contacto
 
