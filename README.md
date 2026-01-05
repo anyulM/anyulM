@@ -1,5 +1,4 @@
 # Hola, soy Anyul Martinez
-
 **Estudiante de Ingeniería de Sistemas**
 
 Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de software, la tecnología y el aprendizaje continuo. Me gusta crear proyectos prácticos que me permitan aplicar los conocimientos adquiridos en la universidad y seguir fortaleciendo mis habilidades técnicas.
